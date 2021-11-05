@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deathtinyz&label=Profile%20views&color=ffa200&style=flat" alt="deathtinyz" /> </p>
 
 ## 🙋‍♂️ About Me
-- 🌱 I’m currently learning **I' will beyond the limit**
+- 🌱 I’m currently learning **I'll beyond the limit**
 
 - 👨‍💻 All of my projects are available at [chayutpong.dev](chayutpong.dev)
 
@@ -28,11 +28,3 @@
   <a href="https://github.com/DEATHTINYZ/github-readme-stats"><img alt="deathtinyz Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deathtinyz&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
-<br/>
-
-## Connect with me:
-
-<p align="left">
-<a href="https://fb.com/dreamza chayutpong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dreamza chayutpong" height="30" width="40" /></a>
-<a href="https://instagram.com/ur.ddream" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ur.ddream" height="30" width="40" /></a>
-</p>
