@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [My PortFolio](https://404.com)
 
-- 📫 How to reach me **disneyza123@gmail.com**
+- 📫 How to reach me **chayutpong.dev@gmail.com**
 
 - ⚡ Fun fact **I'm crazy**
 
