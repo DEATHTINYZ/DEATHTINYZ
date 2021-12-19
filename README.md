@@ -17,6 +17,7 @@
 <p align="left">
 <a href="https://www.facebook.com/chayutpong.chumneanpongpun/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dreamza chayutpong" height="30" width="40" /></a>
 <a href="https://instagram.com/ur.ddream" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ur.ddream" height="30" width="40" /></a>
+<a href="https://twitter.com/DEATHTINVYZ" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="DEATHTINVYZ" height="30" width="40" /></a>
 </p>
 
 ## 🚀 Languages and Tools:
