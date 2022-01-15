@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deathtinyz&label=Profile%20views&color=ffa200&style=flat" alt="deathtinyz" /> </p>
 
+[![Spotify](https://novatorem-332wtyn3j-deathtinyz.vercel.app/api/spotify)](https://open.spotify.com/user/32tblxn8p330szhvq5c9xh950)
+
+
 ## 🙋‍♂️ About Me
 
 - 🌱 I’m currently learning **I'll beyond the limit**
