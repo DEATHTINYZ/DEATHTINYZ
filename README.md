@@ -89,6 +89,7 @@
 
 <div align="center">
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=32tblxn8p330szhvq5c9xh950&cover_image=true&theme=default&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+ </div>
  
 <br />
 
