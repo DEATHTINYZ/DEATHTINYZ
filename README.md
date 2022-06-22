@@ -81,15 +81,5 @@
 
 <br/>  
 
-## My Github Stats
-<a href="https://github.com/DEATHTINYZ/github-readme-stats">
-<img alt="Chayutpong Github Stats" src="https://github-readme-stats.vercel.app/api?username=deathtinyz&show_icons=true&count_private=flase&theme=react&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/DEATHTINYZ/github-readme-stats">
-<img alt="deathtinyz Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deathtinyz&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-</a>
- 
-<br/>
-
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=32tblxn8p330szhvq5c9xh950&cover_image=true&theme=default&bar_color_cover=true" /></div>
 
