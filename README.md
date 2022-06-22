@@ -15,6 +15,10 @@
 
 <br/>  
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=DEATHTINYZ&&style=flat-square" align="center" />
+</div>  
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/DEATHTINYZ" target="_blank">
