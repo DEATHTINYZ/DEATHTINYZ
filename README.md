@@ -1,17 +1,19 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Chayutpong Jamneanpongphan</h1>
-<h3 align="center">Front End Developer</h3>
+### <div align="center">Hi 👋, I'm Chayutpong Jamneanpongphan, a Front end developer</div>  
+  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deathtinyz&label=Profile%20views&color=ffa200&style=flat" alt="deathtinyz" /> </p>
+- 🌱 I’m currently learning I'll beyond the limit  
+  
 
-## 🙋‍♂️ About Me
+- 👨‍💻 All of my projects are available at [My PortFolio](https://chayutpong.dev)  
+  
 
-- 🌱 I’m currently learning **I'll beyond the limit**
+- 📫 How to reach me **chayutpong.dev@gmail.com**  
+  
 
-- 👨‍💻 All of my projects are available at [My PortFolio](https://chayutpong.dev)
+- ⚡ Fun fact **I'm crazy**  
+  
 
-- 📫 How to reach me **chayutpong.dev@gmail.com**
-
-- ⚡ Fun fact **I'm crazy**
+<br/>  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
