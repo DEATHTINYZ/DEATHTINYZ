@@ -45,7 +45,7 @@
 
 ### Frontend  
 <div align="center">  
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=html,css,sass,js,react,tailwind,materialui&perline=5" />  
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=html,css,sass,js,react,styledcomponents,tailwind,materialui&perline=5" />  
 </div>
 
 </td><td valign="top" width="33%">
@@ -63,7 +63,7 @@
 
 ### Tools  
 <div align="center">  
-<img style="margin: 10px"  src="https://skillicons.dev/icons?i=discord,figma,git,github,ps,pr,stackoverflow,vscode&perline=5" />
+<img style="margin: 10px"  src="https://skillicons.dev/icons?i=figma,git,github,ps,pr,stackoverflow,vscode&perline=5" />
 </div>
 
 </td></tr></table>  
