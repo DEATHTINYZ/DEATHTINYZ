@@ -45,7 +45,7 @@
 
 ### Frontend  
 <div align="center">  
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" height="50" />  
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=html,css,sass,js,react,tailwind,materialui" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
@@ -63,7 +63,7 @@
 
 ### Tools  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px"  src="https://skillicons.dev/icons?i=discord,figma,git,github,ps,pr,stackoverflow,vscode" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
