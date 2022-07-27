@@ -64,10 +64,6 @@
 ### Tools  
 <div align="center">  
 <img style="margin: 10px"  src="https://skillicons.dev/icons?i=discord,figma,git,github,ps,pr,stackoverflow,vscode" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" />  
 </div>
 
 </td></tr></table>  
