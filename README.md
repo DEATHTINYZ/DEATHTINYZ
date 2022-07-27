@@ -54,10 +54,7 @@
 
 ### Backend  
 <div align="center">
-<img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
+<img style="margin: 10px"  src="https://skillicons.dev/icons?i=nextjs,mongodb,nodejs,firebase" height="50" />
 </div>
 
 </td><td valign="top" width="33%">
