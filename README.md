@@ -42,7 +42,7 @@
 
 ### Frontend  
 <div align="center">  
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=html,css,sass,js,react,styledcomponents,tailwind,materialui&perline=5" />  
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,styledcomponents,tailwind,materialui&perline=5" />  
 </div>
 
 </td><td valign="top" width="33%">
