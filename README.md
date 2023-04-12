@@ -42,7 +42,7 @@
 
 ### Frontend  
 <div align="center">  
-<img style="margin: 10px" src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,styledcomponents,tailwind,materialui&perline=5" />  
+<img style="margin: 10px" src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,vite,electron,lua&perline=5" />  
 </div>
 
 </td><td valign="top" width="33%">
@@ -51,7 +51,7 @@
 
 ### Backend  
 <div align="center">
-<img style="margin: 10px"  src="https://skillicons.dev/icons?i=nextjs,mongodb,nodejs,firebase&perline=5" />
+<img style="margin: 10px"  src="https://skillicons.dev/icons?i=nextjs,nodejs,php,express,graphql,docker,firebase,mongodb,postgres&perline=5" />
 </div>
 
 </td><td valign="top" width="33%">
@@ -60,7 +60,7 @@
 
 ### Tools  
 <div align="center">  
-<img style="margin: 10px"  src="https://skillicons.dev/icons?i=figma,git,github,ps,pr,vscode&perline=5" />
+<img style="margin: 10px"  src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,figma,postman&perline=5" />
 </div>
 
 </td></tr></table>  
